@@ -36,6 +36,6 @@ Feature tersedia :
 [Download Program](https://mesinkasir.github.io/e-catalog/CHROMPOS%20retail.pdf)
 
 Cek video nya disini 
-Teaser](https://youtu.be/S7p1qDybViQ) / 
+[Teaser](https://youtu.be/S7p1qDybViQ) / 
 [Demo](https://www.youtube.com/playlist?list=PLQDm6k9_HvYN3UhrrV1LqEJRFdO7H-NZn) /
 [Price Check](https://youtu.be/B864Ctl6Dqs)
