@@ -31,5 +31,5 @@ Feature tersedia :
 [Download aplikasi](https://mesinkasir.github.io/e-catalog/Boosterpos%20Retail%20Shop.pdf)
 
 Cek video nya disini
-[Teaser](https://www.youtube.com/watch?v=WkhKTPQk0-o)
+[Teaser](https://www.youtube.com/watch?v=WkhKTPQk0-o) / 
 [Tutorial](https://www.youtube.com/playlist?list=PLQDm6k9_HvYNgKZQ0iiHZEUNbAoEvQzVV)
