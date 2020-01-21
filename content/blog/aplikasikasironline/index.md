@@ -32,4 +32,4 @@ Feature tersedia :
 
 Cek video nya disini
 [Teaser](https://www.youtube.com/watch?v=WkhKTPQk0-o)
- Tutorial](https://www.youtube.com/playlist?list=PLQDm6k9_HvYNgKZQ0iiHZEUNbAoEvQzVV)
+[Tutorial](https://www.youtube.com/playlist?list=PLQDm6k9_HvYNgKZQ0iiHZEUNbAoEvQzVV)
