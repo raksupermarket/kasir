@@ -58,7 +58,7 @@ const Bio = () => {
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           tweet !! 
-        </a><br/>Or you can <a href="https://wa.me/6285646104747">WhatsApp Now</a> 
+        </a><br/>Or you can <a href="https://wa.me/6285646104747">WhatsApp Now</a> / 
  <a href="tel:+6285331361404">Call Us</a>
       </p>
     </div>
