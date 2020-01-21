@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Cs from "../components/cs"
+
 import { rhythm, scale } from "../utils/typography"
 
 class Layout extends React.Component {
